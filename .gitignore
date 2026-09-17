@@ -1,0 +1,14 @@
+# Python虚拟环境
+.venv/
+venv/
+
+# IDEA配置
+.idea/
+
+# chroma向量库缓存
+chroma_db/
+history_storage/
+
+# py编译缓存
+__pycache__/
+*.pyc
